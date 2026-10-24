@@ -1,0 +1,46 @@
+{
+  "chunk_settings": [
+    {
+      "chunk_size": 40,
+      "overlap": 10,
+      "num_chunks": 36,
+      "hit_at_1": 0.917,
+      "hit_at_3": 1.0,
+      "mean_top_score": 0.542,
+      "below_threshold": 1
+    },
+    {
+      "chunk_size": 60,
+      "overlap": 15,
+      "num_chunks": 24,
+      "hit_at_1": 0.833,
+      "hit_at_3": 1.0,
+      "mean_top_score": 0.509,
+      "below_threshold": 0
+    },
+    {
+      "chunk_size": 80,
+      "overlap": 20,
+      "num_chunks": 18,
+      "hit_at_1": 0.917,
+      "hit_at_3": 1.0,
+      "mean_top_score": 0.474,
+      "below_threshold": 2
+    },
+    {
+      "chunk_size": 120,
+      "overlap": 30,
+      "num_chunks": 12,
+      "hit_at_1": 0.917,
+      "hit_at_3": 1.0,
+      "mean_top_score": 0.433,
+      "below_threshold": 2
+    }
+  ],
+  "off_topic_scores": {
+    "Who won the IPL in 2023?": 0.091,
+    "What is the capital of France?": 0.118,
+    "How does photosynthesis work?": 0.201
+  },
+  "num_questions": 12
+}
